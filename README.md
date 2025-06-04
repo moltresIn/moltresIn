@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Kishor</h1>
-<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Open Source Contributor(Trying)</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7B8&center=true&width=435&lines=Crafting+digital+experiences;Turning+ideas+into+reality;Clean+code+advocate;Always+learning+new+tech" alt="Typing SVG" /></a>
@@ -20,8 +20,7 @@
 
 ### 📫 Get In Touch
 - 📧 Email: [akishor2001@gmail.com](mailto:akishor2001@gmail.com)
-- 💼 LinkedIn: [Your Profile](#) (add your link)
-- 🐦 Twitter: [@yourhandle](#) (add your link)
+- 💼 LinkedIn: [Kishor Arjunan](#) (https://linkedin.com/in/kishor-arjunan)
 
 ---
 

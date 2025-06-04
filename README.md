@@ -19,8 +19,8 @@
 - 💡 Exploring **AI/ML integration** in web applications
 
 ### 📫 Get In Touch
-- 📧 Email: [akishor2001@gmail.com](mailto:akishor2001@gmail.com)
-- 💼 LinkedIn: [Kishor Arjunan](#) (https://linkedin.com/in/kishor-arjunan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishor_Arjunan-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/kishor-arjunan)
+[![Email](https://img.shields.io/badge/Email-akishor2001@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:akishor2001@gmail.com)
 
 ---
 
